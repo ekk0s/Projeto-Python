@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe90544527730080398231966257345953444760437498" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>56354712</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000132</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>65.971.402/0001-89</CNPJ>
+                <xNome>MARTINS S.A.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>35.428.701/0001-00</CNPJ>
+                <xNome>RAVY ARAGÃO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>6025284862841069</cProd>
+            <xProd>VOLUPTATEM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>17.637</qCom>
+            <vUnCom>857.32</vUnCom>
+            <vProd>15120.55</vProd>
+            <rastro>
+                <nLote>1761860</nLote>
+                <qLote>17.637</qLote>
+                <dFab>2025-09-17</dFab>
+                <dVal>2025-12-03</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2721.7</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>8353837203539114</cProd>
+            <xProd>QUAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>86.559</qCom>
+            <vUnCom>643.33</vUnCom>
+            <vProd>55686.0</vProd>
+            <rastro>
+                <nLote>1131268</nLote>
+                <qLote>86.559</qLote>
+                <dFab>2025-08-01</dFab>
+                <dVal>2026-01-03</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>10023.48</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>70806.55</vProd>
+                    <vICMS>12745.18</vICMS>
+                    <vNF>70806.55</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

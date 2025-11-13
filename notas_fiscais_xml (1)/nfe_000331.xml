@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe51530966802453964508198155695039825029879205" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>40239265</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000331</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>56.904.217/0001-80</CNPJ>
+                <xNome>SÁ - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>02.657.841/0001-00</CNPJ>
+                <xNome>JOSÉ PEDRO BARROS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3762745219844785</cProd>
+            <xProd>AMET</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>98.116</qCom>
+            <vUnCom>890.01</vUnCom>
+            <vProd>87324.22</vProd>
+            <rastro>
+                <nLote>2174410</nLote>
+                <qLote>98.116</qLote>
+                <dFab>2025-09-02</dFab>
+                <dVal>2026-03-15</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>15718.36</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>87324.22</vProd>
+                    <vICMS>15718.36</vICMS>
+                    <vNF>87324.22</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

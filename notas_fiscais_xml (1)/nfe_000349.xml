@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe87178665013080796768436497243555251915938170" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>70856314</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000349</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>42.763.980/0001-24</CNPJ>
+                <xNome>RIOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>79.428.536/0001-62</CNPJ>
+                <xNome>PEDRO CAMARGO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>9824854721174024</cProd>
+            <xProd>IURE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>29.124</qCom>
+            <vUnCom>39.55</vUnCom>
+            <vProd>1151.85</vProd>
+            <rastro>
+                <nLote>5926146</nLote>
+                <qLote>29.124</qLote>
+                <dFab>2025-09-10</dFab>
+                <dVal>2026-05-18</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>207.33</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>1151.85</vProd>
+                    <vICMS>207.33</vICMS>
+                    <vNF>1151.85</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

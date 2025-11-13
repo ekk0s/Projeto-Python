@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe24567242869274217445390671057685573602751757" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>10820119</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000115</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>61.087.532/0001-00</CNPJ>
+                <xNome>DA CRUZ E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>63.972.814/0001-08</CNPJ>
+                <xNome>DR. CAUÃ VARGAS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7091457869925339</cProd>
+            <xProd>OPTIO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>35.591</qCom>
+            <vUnCom>461.84</vUnCom>
+            <vProd>16437.35</vProd>
+            <rastro>
+                <nLote>6884330</nLote>
+                <qLote>35.591</qLote>
+                <dFab>2025-10-11</dFab>
+                <dVal>2025-12-15</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2958.72</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>16437.35</vProd>
+                    <vICMS>2958.72</vICMS>
+                    <vNF>16437.35</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe98846323591938980059827385476583252255855565" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>59641603</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000176</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>92.768.501/0001-30</CNPJ>
+                <xNome>CARDOSO S/A</xNome>
+            </emit>
+            <dest>
+                <CNPJ>84.679.052/0001-26</CNPJ>
+                <xNome>BENÍCIO FREITAS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>4252918820219554</cProd>
+            <xProd>ERROR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>78.067</qCom>
+            <vUnCom>575.83</vUnCom>
+            <vProd>44953.32</vProd>
+            <rastro>
+                <nLote>7165102</nLote>
+                <qLote>78.067</qLote>
+                <dFab>2025-10-26</dFab>
+                <dVal>2026-09-02</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>8091.6</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>44953.32</vProd>
+                    <vICMS>8091.6</vICMS>
+                    <vNF>44953.32</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

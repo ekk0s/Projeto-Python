@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe54440247310524069057460173386696606749229051" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>21332472</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000382</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>68.473.150/0001-56</CNPJ>
+                <xNome>MOURA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>95.164.302/0001-01</CNPJ>
+                <xNome>LUIZ GUSTAVO MOURA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2821083131210210</cProd>
+            <xProd>AD</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>82.137</qCom>
+            <vUnCom>706.58</vUnCom>
+            <vProd>58036.36</vProd>
+            <rastro>
+                <nLote>3780240</nLote>
+                <qLote>82.137</qLote>
+                <dFab>2025-08-20</dFab>
+                <dVal>2026-08-12</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>10446.54</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>7692145389058657</cProd>
+            <xProd>TEMPORIBUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>99.706</qCom>
+            <vUnCom>220.05</vUnCom>
+            <vProd>21940.31</vProd>
+            <rastro>
+                <nLote>2614623</nLote>
+                <qLote>99.706</qLote>
+                <dFab>2025-08-07</dFab>
+                <dVal>2026-07-23</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3949.26</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>79976.67</vProd>
+                    <vICMS>14395.8</vICMS>
+                    <vNF>79976.67</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

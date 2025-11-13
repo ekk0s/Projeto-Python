@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe28811691940559284564534656370387240143785632" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>76640646</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000161</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>46.072.893/0001-81</CNPJ>
+                <xNome>PEREIRA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>58.942.631/0001-00</CNPJ>
+                <xNome>MARIANE APARECIDA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1062700690932036</cProd>
+            <xProd>ADIPISCI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>34.53</qCom>
+            <vUnCom>435.24</vUnCom>
+            <vProd>15028.84</vProd>
+            <rastro>
+                <nLote>7807841</nLote>
+                <qLote>34.53</qLote>
+                <dFab>2025-10-16</dFab>
+                <dVal>2026-06-30</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2705.19</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>15028.84</vProd>
+                    <vICMS>2705.19</vICMS>
+                    <vNF>15028.84</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

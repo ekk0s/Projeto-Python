@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe84828671949409905458101132183060191156647186" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>93879612</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000094</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>93.174.085/0001-05</CNPJ>
+                <xNome>CARVALHO E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>04.291.358/0001-71</CNPJ>
+                <xNome>SRTA. EMANUELLA PIMENTA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>4336099176649798</cProd>
+            <xProd>OPTIO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>50.239</qCom>
+            <vUnCom>788.68</vUnCom>
+            <vProd>39622.49</vProd>
+            <rastro>
+                <nLote>4694372</nLote>
+                <qLote>50.239</qLote>
+                <dFab>2025-08-28</dFab>
+                <dVal>2026-08-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>7132.05</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>39622.49</vProd>
+                    <vICMS>7132.05</vICMS>
+                    <vNF>39622.49</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe16797883908023821196257695854426593828549187" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>91106383</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000468</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>06.198.257/0001-86</CNPJ>
+                <xNome>BARROS BORGES S.A.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>67.012.943/0001-05</CNPJ>
+                <xNome>SARA APARECIDA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2666707931258845</cProd>
+            <xProd>DISTINCTIO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>63.971</qCom>
+            <vUnCom>518.51</vUnCom>
+            <vProd>33169.6</vProd>
+            <rastro>
+                <nLote>9947954</nLote>
+                <qLote>63.971</qLote>
+                <dFab>2025-09-20</dFab>
+                <dVal>2026-09-01</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5970.53</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>33169.6</vProd>
+                    <vICMS>5970.53</vICMS>
+                    <vNF>33169.6</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

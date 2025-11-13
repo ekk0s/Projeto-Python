@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe94935121164775976288559916129840015021114159" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>66842092</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000023</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>43.281.057/0001-19</CNPJ>
+                <xNome>CAVALCANTI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>51.362.748/0001-75</CNPJ>
+                <xNome>FERNANDA ALMEIDA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5924786255352044</cProd>
+            <xProd>RERUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>33.43</qCom>
+            <vUnCom>96.21</vUnCom>
+            <vProd>3216.3</vProd>
+            <rastro>
+                <nLote>3098040</nLote>
+                <qLote>33.43</qLote>
+                <dFab>2025-08-17</dFab>
+                <dVal>2026-10-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>578.93</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>3216.3</vProd>
+                    <vICMS>578.93</vICMS>
+                    <vNF>3216.3</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

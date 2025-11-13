@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe54719642797181898925380921620499816294382615" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>34770940</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000298</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>95.083.247/0001-25</CNPJ>
+                <xNome>CÂMARA ALBUQUERQUE LTDA.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>64.127.083/0001-67</CNPJ>
+                <xNome>ISABELLA SIQUEIRA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>6176059145079839</cProd>
+            <xProd>ESSE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>49.559</qCom>
+            <vUnCom>329.11</vUnCom>
+            <vProd>16310.36</vProd>
+            <rastro>
+                <nLote>7828274</nLote>
+                <qLote>49.559</qLote>
+                <dFab>2025-09-29</dFab>
+                <dVal>2026-02-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2935.86</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>7282919308309187</cProd>
+            <xProd>FACERE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>50.132</qCom>
+            <vUnCom>227.76</vUnCom>
+            <vProd>11418.06</vProd>
+            <rastro>
+                <nLote>6198226</nLote>
+                <qLote>50.132</qLote>
+                <dFab>2025-10-07</dFab>
+                <dVal>2026-09-30</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2055.25</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>27728.42</vProd>
+                    <vICMS>4991.12</vICMS>
+                    <vNF>27728.42</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

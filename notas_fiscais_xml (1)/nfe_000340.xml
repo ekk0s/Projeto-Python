@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe67850078332830159453487896976321618582782072" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>22411321</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000340</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>37.459.068/0001-43</CNPJ>
+                <xNome>CARDOSO - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>74.153.290/0001-40</CNPJ>
+                <xNome>DRA. ALEXIA SÁ</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>6991139708607113</cProd>
+            <xProd>QUAERAT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>14.885</qCom>
+            <vUnCom>784.02</vUnCom>
+            <vProd>11670.14</vProd>
+            <rastro>
+                <nLote>6295585</nLote>
+                <qLote>14.885</qLote>
+                <dFab>2025-07-25</dFab>
+                <dVal>2026-09-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2100.63</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>11670.14</vProd>
+                    <vICMS>2100.63</vICMS>
+                    <vNF>11670.14</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe58154875555303202178699257748066684748405977" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>67846008</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000269</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>52.981.740/0001-50</CNPJ>
+                <xNome>PASTOR SOUZA S.A.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>13.409.857/0001-01</CNPJ>
+                <xNome>ALICE CAVALCANTE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1633877470448888</cProd>
+            <xProd>OFFICIIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>2.789</qCom>
+            <vUnCom>324.11</vUnCom>
+            <vProd>903.94</vProd>
+            <rastro>
+                <nLote>8379402</nLote>
+                <qLote>2.789</qLote>
+                <dFab>2025-09-02</dFab>
+                <dVal>2026-05-08</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>162.71</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>9720760941706799</cProd>
+            <xProd>ACCUSAMUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>87.362</qCom>
+            <vUnCom>373.44</vUnCom>
+            <vProd>32624.47</vProd>
+            <rastro>
+                <nLote>8510245</nLote>
+                <qLote>87.362</qLote>
+                <dFab>2025-09-24</dFab>
+                <dVal>2026-04-25</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5872.4</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>33528.41</vProd>
+                    <vICMS>6035.11</vICMS>
+                    <vNF>33528.41</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe79850646039236301028868042898260982376538667" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>13805445</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000472</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>52.036.974/0001-29</CNPJ>
+                <xNome>DA PAZ</xNome>
+            </emit>
+            <dest>
+                <CNPJ>04.367.198/0001-05</CNPJ>
+                <xNome>OLÍVIA MONTENEGRO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1647300546263122</cProd>
+            <xProd>ACCUSAMUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>33.819</qCom>
+            <vUnCom>765.44</vUnCom>
+            <vProd>25886.42</vProd>
+            <rastro>
+                <nLote>1308571</nLote>
+                <qLote>33.819</qLote>
+                <dFab>2025-09-16</dFab>
+                <dVal>2026-08-15</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4659.56</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>25886.42</vProd>
+                    <vICMS>4659.56</vICMS>
+                    <vNF>25886.42</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe79922649692991359271136477491057319134526239" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>87917953</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000185</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>97.162.350/0001-96</CNPJ>
+                <xNome>ARAÚJO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>30.925.176/0001-15</CNPJ>
+                <xNome>ALÍCIA FERREIRA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>9055567387037654</cProd>
+            <xProd>QUAE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>36.996</qCom>
+            <vUnCom>629.24</vUnCom>
+            <vProd>23279.36</vProd>
+            <rastro>
+                <nLote>7198513</nLote>
+                <qLote>36.996</qLote>
+                <dFab>2025-10-11</dFab>
+                <dVal>2026-08-28</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4190.28</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>23279.36</vProd>
+                    <vICMS>4190.28</vICMS>
+                    <vNF>23279.36</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

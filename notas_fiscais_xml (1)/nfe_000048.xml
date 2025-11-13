@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe50456024979786503935843290617651089497584187" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>47840278</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000048</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>21.038.957/0001-05</CNPJ>
+                <xNome>CASA GRANDE LIMA - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>51.369.248/0001-65</CNPJ>
+                <xNome>VITOR HUGO LIMA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7544632828705251</cProd>
+            <xProd>QUASI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>62.158</qCom>
+            <vUnCom>39.89</vUnCom>
+            <vProd>2479.48</vProd>
+            <rastro>
+                <nLote>8860702</nLote>
+                <qLote>62.158</qLote>
+                <dFab>2025-07-26</dFab>
+                <dVal>2025-12-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>446.31</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>4684817711588259</cProd>
+            <xProd>OFFICIA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>40.117</qCom>
+            <vUnCom>885.39</vUnCom>
+            <vProd>35519.19</vProd>
+            <rastro>
+                <nLote>7246299</nLote>
+                <qLote>40.117</qLote>
+                <dFab>2025-08-07</dFab>
+                <dVal>2026-09-24</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6393.45</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>37998.67</vProd>
+                    <vICMS>6839.76</vICMS>
+                    <vNF>37998.67</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe78283593869789806273841560304195466247584995" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>96413366</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000272</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>96.723.541/0001-17</CNPJ>
+                <xNome>DA ROSA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>45.293.861/0001-43</CNPJ>
+                <xNome>FERNANDO NOVAIS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>6205649895477234</cProd>
+            <xProd>ACCUSANTIUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>82.273</qCom>
+            <vUnCom>410.73</vUnCom>
+            <vProd>33791.99</vProd>
+            <rastro>
+                <nLote>9343956</nLote>
+                <qLote>82.273</qLote>
+                <dFab>2025-10-10</dFab>
+                <dVal>2026-09-29</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6082.56</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>7079070022836726</cProd>
+            <xProd>MAGNI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>14.641</qCom>
+            <vUnCom>245.04</vUnCom>
+            <vProd>3587.63</vProd>
+            <rastro>
+                <nLote>4098452</nLote>
+                <qLote>14.641</qLote>
+                <dFab>2025-09-21</dFab>
+                <dVal>2025-12-29</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>645.77</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>37379.62</vProd>
+                    <vICMS>6728.33</vICMS>
+                    <vNF>37379.62</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

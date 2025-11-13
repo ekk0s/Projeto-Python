@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe37744518200922207194586570742904152950739433" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>30088180</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000253</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>76.204.319/0001-09</CNPJ>
+                <xNome>FARIAS CARDOSO - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>82.437.961/0001-22</CNPJ>
+                <xNome>THALES MELO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2186298048882967</cProd>
+            <xProd>ALIQUAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>58.335</qCom>
+            <vUnCom>571.53</vUnCom>
+            <vProd>33340.2</vProd>
+            <rastro>
+                <nLote>7109727</nLote>
+                <qLote>58.335</qLote>
+                <dFab>2025-08-23</dFab>
+                <dVal>2026-03-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6001.24</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>5983960783681064</cProd>
+            <xProd>UNDE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>82.586</qCom>
+            <vUnCom>899.92</vUnCom>
+            <vProd>74320.79</vProd>
+            <rastro>
+                <nLote>6283596</nLote>
+                <qLote>82.586</qLote>
+                <dFab>2025-09-18</dFab>
+                <dVal>2026-02-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>13377.74</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>9823032163808803</cProd>
+            <xProd>PARIATUR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>77.017</qCom>
+            <vUnCom>371.24</vUnCom>
+            <vProd>28591.79</vProd>
+            <rastro>
+                <nLote>8721588</nLote>
+                <qLote>77.017</qLote>
+                <dFab>2025-10-06</dFab>
+                <dVal>2026-07-26</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5146.52</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>2235660885587198</cProd>
+            <xProd>ACCUSANTIUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>98.942</qCom>
+            <vUnCom>834.39</vUnCom>
+            <vProd>82556.22</vProd>
+            <rastro>
+                <nLote>1159681</nLote>
+                <qLote>98.942</qLote>
+                <dFab>2025-10-11</dFab>
+                <dVal>2026-05-07</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>14860.12</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>218809.0</vProd>
+                    <vICMS>39385.62</vICMS>
+                    <vNF>218809.0</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

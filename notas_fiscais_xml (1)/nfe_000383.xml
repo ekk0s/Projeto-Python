@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe90397396093052116392214616909469688100234782" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>68587766</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000383</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>15.436.702/0001-90</CNPJ>
+                <xNome>PORTO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>49.651.702/0001-24</CNPJ>
+                <xNome>HELOISA VARGAS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>6749728121013338</cProd>
+            <xProd>REICIENDIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>34.653</qCom>
+            <vUnCom>901.24</vUnCom>
+            <vProd>31230.67</vProd>
+            <rastro>
+                <nLote>1137568</nLote>
+                <qLote>34.653</qLote>
+                <dFab>2025-09-13</dFab>
+                <dVal>2026-08-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5621.52</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>9742281793287391</cProd>
+            <xProd>VELIT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>3.006</qCom>
+            <vUnCom>835.57</vUnCom>
+            <vProd>2511.72</vProd>
+            <rastro>
+                <nLote>3748681</nLote>
+                <qLote>3.006</qLote>
+                <dFab>2025-10-01</dFab>
+                <dVal>2026-02-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>452.11</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>33742.39</vProd>
+                    <vICMS>6073.63</vICMS>
+                    <vNF>33742.39</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe54784411104155002504428743586767483128620266" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>79080225</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000354</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>94.760.852/0001-20</CNPJ>
+                <xNome>COSTA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>45.387.902/0001-60</CNPJ>
+                <xNome>LUIGI MELO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5521232053548075</cProd>
+            <xProd>FUGIAT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>49.599</qCom>
+            <vUnCom>395.91</vUnCom>
+            <vProd>19636.74</vProd>
+            <rastro>
+                <nLote>6659794</nLote>
+                <qLote>49.599</qLote>
+                <dFab>2025-10-27</dFab>
+                <dVal>2026-10-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3534.61</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>6636659022102432</cProd>
+            <xProd>ACCUSANTIUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>79.171</qCom>
+            <vUnCom>314.97</vUnCom>
+            <vProd>24936.49</vProd>
+            <rastro>
+                <nLote>7063618</nLote>
+                <qLote>79.171</qLote>
+                <dFab>2025-08-18</dFab>
+                <dVal>2025-12-28</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4488.57</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>4848814849270424</cProd>
+            <xProd>QUOD</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>81.284</qCom>
+            <vUnCom>888.9</vUnCom>
+            <vProd>72253.35</vProd>
+            <rastro>
+                <nLote>7003713</nLote>
+                <qLote>81.284</qLote>
+                <dFab>2025-07-27</dFab>
+                <dVal>2026-04-25</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>13005.6</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>116826.58</vProd>
+                    <vICMS>21028.78</vICMS>
+                    <vNF>116826.58</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

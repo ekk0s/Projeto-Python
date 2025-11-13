@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe42874379146761383279006843195917780166147736" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>96710592</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000260</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>62.487.509/0001-68</CNPJ>
+                <xNome>DA CRUZ DA CUNHA - ME</xNome>
+            </emit>
+            <dest>
+                <CNPJ>24.390.165/0001-85</CNPJ>
+                <xNome>SRTA. ANA SOPHIA SÁ</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2424144986643626</cProd>
+            <xProd>TEMPORE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>75.099</qCom>
+            <vUnCom>297.06</vUnCom>
+            <vProd>22308.91</vProd>
+            <rastro>
+                <nLote>8933929</nLote>
+                <qLote>75.099</qLote>
+                <dFab>2025-10-22</dFab>
+                <dVal>2025-12-31</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4015.6</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>6695586804814274</cProd>
+            <xProd>CORRUPTI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>85.401</qCom>
+            <vUnCom>117.65</vUnCom>
+            <vProd>10047.43</vProd>
+            <rastro>
+                <nLote>1521494</nLote>
+                <qLote>85.401</qLote>
+                <dFab>2025-10-10</dFab>
+                <dVal>2026-08-12</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1808.54</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>9880896911305633</cProd>
+            <xProd>DISTINCTIO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>42.98</qCom>
+            <vUnCom>888.38</vUnCom>
+            <vProd>38182.57</vProd>
+            <rastro>
+                <nLote>9568379</nLote>
+                <qLote>42.98</qLote>
+                <dFab>2025-08-09</dFab>
+                <dVal>2026-02-22</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6872.86</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>70538.91</vProd>
+                    <vICMS>12697.0</vICMS>
+                    <vNF>70538.91</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

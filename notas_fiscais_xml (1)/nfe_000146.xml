@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe44691141770909869355253670182938085846997673" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>32076408</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000146</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>45.039.716/0001-30</CNPJ>
+                <xNome>REZENDE E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>96.154.830/0001-42</CNPJ>
+                <xNome>DR. JOSÉ PEDRO VASCONCELOS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8787871125525255</cProd>
+            <xProd>VOLUPTATE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>86.515</qCom>
+            <vUnCom>172.64</vUnCom>
+            <vProd>14935.95</vProd>
+            <rastro>
+                <nLote>9671350</nLote>
+                <qLote>86.515</qLote>
+                <dFab>2025-10-29</dFab>
+                <dVal>2026-09-12</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2688.47</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>9184116102874470</cProd>
+            <xProd>FACERE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>38.695</qCom>
+            <vUnCom>120.04</vUnCom>
+            <vProd>4644.95</vProd>
+            <rastro>
+                <nLote>2462745</nLote>
+                <qLote>38.695</qLote>
+                <dFab>2025-10-21</dFab>
+                <dVal>2026-09-25</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>836.09</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>19580.9</vProd>
+                    <vICMS>3524.56</vICMS>
+                    <vNF>19580.9</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

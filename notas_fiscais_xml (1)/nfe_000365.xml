@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe24911753887960749784817581352933558464920544" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>29857351</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000365</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>40.512.869/0001-30</CNPJ>
+                <xNome>CASSIANO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>56.849.732/0001-05</CNPJ>
+                <xNome>LUANA GARCIA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8609101722903394</cProd>
+            <xProd>UNDE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>28.612</qCom>
+            <vUnCom>858.92</vUnCom>
+            <vProd>24575.42</vProd>
+            <rastro>
+                <nLote>1663526</nLote>
+                <qLote>28.612</qLote>
+                <dFab>2025-10-04</dFab>
+                <dVal>2026-07-06</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4423.58</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>6792407852142507</cProd>
+            <xProd>EIUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>86.325</qCom>
+            <vUnCom>30.86</vUnCom>
+            <vProd>2663.99</vProd>
+            <rastro>
+                <nLote>9719778</nLote>
+                <qLote>86.325</qLote>
+                <dFab>2025-09-27</dFab>
+                <dVal>2026-03-31</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>479.52</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>27239.41</vProd>
+                    <vICMS>4903.09</vICMS>
+                    <vNF>27239.41</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

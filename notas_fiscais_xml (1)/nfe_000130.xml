@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe18823606680542845756011692824744869943611639" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>52505449</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000130</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>23.069.715/0001-04</CNPJ>
+                <xNome>NUNES</xNome>
+            </emit>
+            <dest>
+                <CNPJ>54.126.897/0001-23</CNPJ>
+                <xNome>GABRIEL MONTEIRO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>6290753497314964</cProd>
+            <xProd>MAGNAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>32.393</qCom>
+            <vUnCom>184.26</vUnCom>
+            <vProd>5968.73</vProd>
+            <rastro>
+                <nLote>3476028</nLote>
+                <qLote>32.393</qLote>
+                <dFab>2025-08-07</dFab>
+                <dVal>2025-12-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1074.37</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3674374392666213</cProd>
+            <xProd>SIT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>36.164</qCom>
+            <vUnCom>243.2</vUnCom>
+            <vProd>8795.08</vProd>
+            <rastro>
+                <nLote>8541401</nLote>
+                <qLote>36.164</qLote>
+                <dFab>2025-10-26</dFab>
+                <dVal>2026-06-19</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1583.11</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>14763.81</vProd>
+                    <vICMS>2657.49</vICMS>
+                    <vNF>14763.81</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

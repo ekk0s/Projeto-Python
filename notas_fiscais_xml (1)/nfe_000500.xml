@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe30642320934737340639681750298893967566010514" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>48785710</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000500</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>06.345.271/0001-65</CNPJ>
+                <xNome>ALVES</xNome>
+            </emit>
+            <dest>
+                <CNPJ>95.076.213/0001-03</CNPJ>
+                <xNome>ISAQUE OLIVEIRA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8701147700810224</cProd>
+            <xProd>OCCAECATI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>30.638</qCom>
+            <vUnCom>285.66</vUnCom>
+            <vProd>8752.05</vProd>
+            <rastro>
+                <nLote>5628074</nLote>
+                <qLote>30.638</qLote>
+                <dFab>2025-10-02</dFab>
+                <dVal>2026-08-18</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1575.37</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>9582979357157535</cProd>
+            <xProd>DUCIMUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>7.74</qCom>
+            <vUnCom>63.57</vUnCom>
+            <vProd>492.03</vProd>
+            <rastro>
+                <nLote>2564094</nLote>
+                <qLote>7.74</qLote>
+                <dFab>2025-10-23</dFab>
+                <dVal>2026-02-20</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>88.57</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>9244.08</vProd>
+                    <vICMS>1663.93</vICMS>
+                    <vNF>9244.08</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

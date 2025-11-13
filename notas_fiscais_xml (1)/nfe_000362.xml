@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe39971691375977823443866580464439742177689275" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>15498526</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000362</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>90.124.675/0001-35</CNPJ>
+                <xNome>BARROS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>75.126.948/0001-97</CNPJ>
+                <xNome>MARIA HELENA NUNES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8727304614992093</cProd>
+            <xProd>LABORE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>49.657</qCom>
+            <vUnCom>814.78</vUnCom>
+            <vProd>40459.53</vProd>
+            <rastro>
+                <nLote>5553814</nLote>
+                <qLote>49.657</qLote>
+                <dFab>2025-10-03</dFab>
+                <dVal>2026-08-27</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>7282.72</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>8662746985433829</cProd>
+            <xProd>VOLUPTAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>93.8</qCom>
+            <vUnCom>588.29</vUnCom>
+            <vProd>55181.6</vProd>
+            <rastro>
+                <nLote>4999041</nLote>
+                <qLote>93.8</qLote>
+                <dFab>2025-09-23</dFab>
+                <dVal>2026-05-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>9932.69</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>6848772926618925</cProd>
+            <xProd>EXPLICABO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>2.189</qCom>
+            <vUnCom>887.3</vUnCom>
+            <vProd>1942.3</vProd>
+            <rastro>
+                <nLote>4301951</nLote>
+                <qLote>2.189</qLote>
+                <dFab>2025-09-02</dFab>
+                <dVal>2026-03-19</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>349.61</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>1128559560563752</cProd>
+            <xProd>DESERUNT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>11.478</qCom>
+            <vUnCom>365.8</vUnCom>
+            <vProd>4198.65</vProd>
+            <rastro>
+                <nLote>5310957</nLote>
+                <qLote>11.478</qLote>
+                <dFab>2025-09-07</dFab>
+                <dVal>2026-07-03</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>755.76</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="5">
+        <prod>
+            <cProd>4241081970654525</cProd>
+            <xProd>VEL</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>83.218</qCom>
+            <vUnCom>761.01</vUnCom>
+            <vProd>63329.73</vProd>
+            <rastro>
+                <nLote>6583840</nLote>
+                <qLote>83.218</qLote>
+                <dFab>2025-10-18</dFab>
+                <dVal>2026-03-23</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>11399.35</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>165111.81</vProd>
+                    <vICMS>29720.13</vICMS>
+                    <vNF>165111.81</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe86351490882547283453581289423809777986515405" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>74904737</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000419</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>36.457.289/0001-10</CNPJ>
+                <xNome>CAMARGO - ME</xNome>
+            </emit>
+            <dest>
+                <CNPJ>15.608.349/0001-88</CNPJ>
+                <xNome>DAVI LUCCA GUERRA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3365426538437150</cProd>
+            <xProd>CORPORIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>49.743</qCom>
+            <vUnCom>311.05</vUnCom>
+            <vProd>15472.56</vProd>
+            <rastro>
+                <nLote>6276319</nLote>
+                <qLote>49.743</qLote>
+                <dFab>2025-10-09</dFab>
+                <dVal>2026-05-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2785.06</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>7242658067778142</cProd>
+            <xProd>SOLUTA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>48.291</qCom>
+            <vUnCom>459.57</vUnCom>
+            <vProd>22193.09</vProd>
+            <rastro>
+                <nLote>9538088</nLote>
+                <qLote>48.291</qLote>
+                <dFab>2025-10-11</dFab>
+                <dVal>2026-07-20</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3994.76</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>9399906517637341</cProd>
+            <xProd>ACCUSANTIUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>2.692</qCom>
+            <vUnCom>774.68</vUnCom>
+            <vProd>2085.44</vProd>
+            <rastro>
+                <nLote>1619343</nLote>
+                <qLote>2.692</qLote>
+                <dFab>2025-07-24</dFab>
+                <dVal>2026-08-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>375.38</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>6315193846270462</cProd>
+            <xProd>HARUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>29.929</qCom>
+            <vUnCom>352.65</vUnCom>
+            <vProd>10554.46</vProd>
+            <rastro>
+                <nLote>7067927</nLote>
+                <qLote>29.929</qLote>
+                <dFab>2025-08-26</dFab>
+                <dVal>2025-12-28</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1899.8</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="5">
+        <prod>
+            <cProd>7138439162334296</cProd>
+            <xProd>RERUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>80.328</qCom>
+            <vUnCom>191.32</vUnCom>
+            <vProd>15368.35</vProd>
+            <rastro>
+                <nLote>2202565</nLote>
+                <qLote>80.328</qLote>
+                <dFab>2025-08-12</dFab>
+                <dVal>2025-12-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2766.3</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>65673.9</vProd>
+                    <vICMS>11821.3</vICMS>
+                    <vNF>65673.9</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe81306459558795010691025197291930920291407300" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>87746605</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000418</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>51.607.843/0001-91</CNPJ>
+                <xNome>RIBEIRO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>97.831.460/0001-01</CNPJ>
+                <xNome>LUCAS LIMA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3784023427713348</cProd>
+            <xProd>PROVIDENT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>86.629</qCom>
+            <vUnCom>492.79</vUnCom>
+            <vProd>42689.9</vProd>
+            <rastro>
+                <nLote>8658597</nLote>
+                <qLote>86.629</qLote>
+                <dFab>2025-08-10</dFab>
+                <dVal>2026-01-24</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>7684.18</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>42689.9</vProd>
+                    <vICMS>7684.18</vICMS>
+                    <vNF>42689.9</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

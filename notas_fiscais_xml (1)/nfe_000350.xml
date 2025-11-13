@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe60619577389733705631125190459080555952625665" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>31377691</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000350</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>23.765.109/0001-15</CNPJ>
+                <xNome>VIANA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>26.971.048/0001-30</CNPJ>
+                <xNome>JOÃO CAVALCANTI</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2781939016223477</cProd>
+            <xProd>ALIQUID</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>32.204</qCom>
+            <vUnCom>528.07</vUnCom>
+            <vProd>17005.97</vProd>
+            <rastro>
+                <nLote>9877550</nLote>
+                <qLote>32.204</qLote>
+                <dFab>2025-09-17</dFab>
+                <dVal>2026-04-14</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3061.07</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>1729196081145548</cProd>
+            <xProd>MAGNI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>42.568</qCom>
+            <vUnCom>49.98</vUnCom>
+            <vProd>2127.55</vProd>
+            <rastro>
+                <nLote>8051944</nLote>
+                <qLote>42.568</qLote>
+                <dFab>2025-09-30</dFab>
+                <dVal>2026-10-31</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>382.96</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>9866232839345489</cProd>
+            <xProd>FUGIT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>21.389</qCom>
+            <vUnCom>961.35</vUnCom>
+            <vProd>20562.32</vProd>
+            <rastro>
+                <nLote>3352188</nLote>
+                <qLote>21.389</qLote>
+                <dFab>2025-08-12</dFab>
+                <dVal>2026-05-18</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3701.22</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>8270214480487974</cProd>
+            <xProd>MINUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>14.695</qCom>
+            <vUnCom>354.64</vUnCom>
+            <vProd>5211.43</vProd>
+            <rastro>
+                <nLote>9855413</nLote>
+                <qLote>14.695</qLote>
+                <dFab>2025-09-01</dFab>
+                <dVal>2026-07-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>938.06</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="5">
+        <prod>
+            <cProd>5993283858082145</cProd>
+            <xProd>ITAQUE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>83.323</qCom>
+            <vUnCom>238.61</vUnCom>
+            <vProd>19881.7</vProd>
+            <rastro>
+                <nLote>2130493</nLote>
+                <qLote>83.323</qLote>
+                <dFab>2025-07-26</dFab>
+                <dVal>2026-09-05</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3578.71</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>64788.97</vProd>
+                    <vICMS>11662.01</vICMS>
+                    <vNF>64788.97</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

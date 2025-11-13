@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe19377475176143006180020137421614761382016608" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>82173031</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000345</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>56.172.390/0001-31</CNPJ>
+                <xNome>DAS NEVES BARBOSA E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>17.908.523/0001-33</CNPJ>
+                <xNome>RHAVI RODRIGUES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5857717510415362</cProd>
+            <xProd>MAIORES</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>59.809</qCom>
+            <vUnCom>344.75</vUnCom>
+            <vProd>20619.15</vProd>
+            <rastro>
+                <nLote>9118428</nLote>
+                <qLote>59.809</qLote>
+                <dFab>2025-09-21</dFab>
+                <dVal>2026-09-18</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3711.45</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>1627892066881168</cProd>
+            <xProd>ALIAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>91.975</qCom>
+            <vUnCom>717.42</vUnCom>
+            <vProd>65984.7</vProd>
+            <rastro>
+                <nLote>5741140</nLote>
+                <qLote>91.975</qLote>
+                <dFab>2025-08-27</dFab>
+                <dVal>2026-04-30</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>11877.25</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>6794334061759209</cProd>
+            <xProd>ELIGENDI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>91.454</qCom>
+            <vUnCom>620.18</vUnCom>
+            <vProd>56717.94</vProd>
+            <rastro>
+                <nLote>1774037</nLote>
+                <qLote>91.454</qLote>
+                <dFab>2025-09-04</dFab>
+                <dVal>2026-08-28</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>10209.23</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>143321.79</vProd>
+                    <vICMS>25797.92</vICMS>
+                    <vNF>143321.79</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe45812120356744362305330588946792268221614053" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>76957963</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000406</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>21.390.648/0001-91</CNPJ>
+                <xNome>MARTINS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>52.078.341/0001-83</CNPJ>
+                <xNome>LUIZ FELIPE FOGAÇA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3699510986003588</cProd>
+            <xProd>VOLUPTAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>8.159</qCom>
+            <vUnCom>891.79</vUnCom>
+            <vProd>7276.11</vProd>
+            <rastro>
+                <nLote>4668102</nLote>
+                <qLote>8.159</qLote>
+                <dFab>2025-09-02</dFab>
+                <dVal>2026-08-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1309.7</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>7276.11</vProd>
+                    <vICMS>1309.7</vICMS>
+                    <vNF>7276.11</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

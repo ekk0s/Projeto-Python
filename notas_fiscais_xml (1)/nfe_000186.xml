@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe63165173375644673343577393912052585127299514" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>19241689</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000186</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>92.418.537/0001-94</CNPJ>
+                <xNome>BRITO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>87.610.539/0001-40</CNPJ>
+                <xNome>PEDRO HENRIQUE MELO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>6138895574769305</cProd>
+            <xProd>TEMPORIBUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>77.13</qCom>
+            <vUnCom>292.95</vUnCom>
+            <vProd>22595.23</vProd>
+            <rastro>
+                <nLote>9529002</nLote>
+                <qLote>77.13</qLote>
+                <dFab>2025-10-28</dFab>
+                <dVal>2026-07-23</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4067.14</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>22595.23</vProd>
+                    <vICMS>4067.14</vICMS>
+                    <vNF>22595.23</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

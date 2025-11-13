@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe59985253890859136158790229723942720648208235" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>58100897</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000370</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>05.496.817/0001-16</CNPJ>
+                <xNome>CAMPOS BARBOSA E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>07.934.812/0001-53</CNPJ>
+                <xNome>CAROLINA SAMPAIO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>9893305537166736</cProd>
+            <xProd>MAIORES</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>63.677</qCom>
+            <vUnCom>822.85</vUnCom>
+            <vProd>52396.62</vProd>
+            <rastro>
+                <nLote>8073672</nLote>
+                <qLote>63.677</qLote>
+                <dFab>2025-09-09</dFab>
+                <dVal>2026-01-29</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>9431.39</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>52396.62</vProd>
+                    <vICMS>9431.39</vICMS>
+                    <vNF>52396.62</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

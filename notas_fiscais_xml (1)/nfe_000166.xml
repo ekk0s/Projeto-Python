@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe10496047119037013606112785583975773560952479" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>34453641</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000166</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>26.519.408/0001-68</CNPJ>
+                <xNome>RODRIGUES</xNome>
+            </emit>
+            <dest>
+                <CNPJ>42.059.618/0001-77</CNPJ>
+                <xNome>DR. HENRIQUE SAMPAIO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1678618339601225</cProd>
+            <xProd>QUASI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>13.29</qCom>
+            <vUnCom>444.77</vUnCom>
+            <vProd>5910.99</vProd>
+            <rastro>
+                <nLote>4255023</nLote>
+                <qLote>13.29</qLote>
+                <dFab>2025-08-22</dFab>
+                <dVal>2026-09-15</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1063.98</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>1721789767637460</cProd>
+            <xProd>CORRUPTI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>95.166</qCom>
+            <vUnCom>303.74</vUnCom>
+            <vProd>28905.72</vProd>
+            <rastro>
+                <nLote>2066439</nLote>
+                <qLote>95.166</qLote>
+                <dFab>2025-09-24</dFab>
+                <dVal>2026-06-22</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5203.03</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>34816.71</vProd>
+                    <vICMS>6267.01</vICMS>
+                    <vNF>34816.71</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

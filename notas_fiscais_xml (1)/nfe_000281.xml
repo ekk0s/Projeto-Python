@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe25240229022695857211744756557293500716829208" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>38633797</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000281</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>69.735.021/0001-51</CNPJ>
+                <xNome>MENDONÇA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>79.863.025/0001-79</CNPJ>
+                <xNome>EMANUEL CARVALHO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7066863064599335</cProd>
+            <xProd>AMET</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>33.116</qCom>
+            <vUnCom>37.99</vUnCom>
+            <vProd>1258.08</vProd>
+            <rastro>
+                <nLote>7423701</nLote>
+                <qLote>33.116</qLote>
+                <dFab>2025-08-22</dFab>
+                <dVal>2026-10-25</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>226.45</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>1258.08</vProd>
+                    <vICMS>226.45</vICMS>
+                    <vNF>1258.08</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

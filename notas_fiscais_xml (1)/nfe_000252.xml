@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe66187252212894692618422302236501342019342397" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>31984582</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000252</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>52.073.419/0001-77</CNPJ>
+                <xNome>VIANA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>31.927.685/0001-40</CNPJ>
+                <xNome>HELOISA NOVAIS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2467700301128901</cProd>
+            <xProd>SED</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>70.497</qCom>
+            <vUnCom>53.25</vUnCom>
+            <vProd>3753.97</vProd>
+            <rastro>
+                <nLote>6150926</nLote>
+                <qLote>70.497</qLote>
+                <dFab>2025-10-20</dFab>
+                <dVal>2026-06-15</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>675.71</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>3753.97</vProd>
+                    <vICMS>675.71</vICMS>
+                    <vNF>3753.97</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

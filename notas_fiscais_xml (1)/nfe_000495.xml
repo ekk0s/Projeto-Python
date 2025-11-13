@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe69368420878134025999356150850793485694098730" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>28573366</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000495</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>52.687.043/0001-90</CNPJ>
+                <xNome>RODRIGUES</xNome>
+            </emit>
+            <dest>
+                <CNPJ>69.734.580/0001-47</CNPJ>
+                <xNome>CAROLINA VARGAS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5829498779334230</cProd>
+            <xProd>ALIAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>97.412</qCom>
+            <vUnCom>221.08</vUnCom>
+            <vProd>21535.84</vProd>
+            <rastro>
+                <nLote>2000947</nLote>
+                <qLote>97.412</qLote>
+                <dFab>2025-10-09</dFab>
+                <dVal>2026-03-30</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3876.45</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3824355403599034</cProd>
+            <xProd>EXPEDITA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>9.923</qCom>
+            <vUnCom>104.84</vUnCom>
+            <vProd>1040.33</vProd>
+            <rastro>
+                <nLote>1106449</nLote>
+                <qLote>9.923</qLote>
+                <dFab>2025-10-24</dFab>
+                <dVal>2026-05-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>187.26</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>22576.17</vProd>
+                    <vICMS>4063.71</vICMS>
+                    <vNF>22576.17</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

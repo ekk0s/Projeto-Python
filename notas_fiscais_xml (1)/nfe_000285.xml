@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe67444335969924708546282757087476157763708964" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>59576435</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000285</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>65.879.021/0001-74</CNPJ>
+                <xNome>ARAGÃO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>89.306.415/0001-00</CNPJ>
+                <xNome>ANA CAROLINA PIMENTA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>9964775669061655</cProd>
+            <xProd>PARIATUR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>15.331</qCom>
+            <vUnCom>179.04</vUnCom>
+            <vProd>2744.86</vProd>
+            <rastro>
+                <nLote>7376096</nLote>
+                <qLote>15.331</qLote>
+                <dFab>2025-09-12</dFab>
+                <dVal>2026-08-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>494.07</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>2744.86</vProd>
+                    <vICMS>494.07</vICMS>
+                    <vNF>2744.86</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

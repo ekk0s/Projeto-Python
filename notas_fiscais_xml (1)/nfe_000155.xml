@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe33409447138116974897226183682220097687703613" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>65849107</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000155</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>71.568.203/0001-27</CNPJ>
+                <xNome>GOMES</xNome>
+            </emit>
+            <dest>
+                <CNPJ>59.384.267/0001-72</CNPJ>
+                <xNome>LAVÍNIA MONTENEGRO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1650414724802918</cProd>
+            <xProd>IPSAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>48.586</qCom>
+            <vUnCom>941.97</vUnCom>
+            <vProd>45766.55</vProd>
+            <rastro>
+                <nLote>9879021</nLote>
+                <qLote>48.586</qLote>
+                <dFab>2025-10-08</dFab>
+                <dVal>2026-05-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>8237.98</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>7973824104085413</cProd>
+            <xProd>VITAE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>40.764</qCom>
+            <vUnCom>590.38</vUnCom>
+            <vProd>24066.25</vProd>
+            <rastro>
+                <nLote>4181032</nLote>
+                <qLote>40.764</qLote>
+                <dFab>2025-10-18</dFab>
+                <dVal>2026-04-30</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4331.93</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>69832.8</vProd>
+                    <vICMS>12569.9</vICMS>
+                    <vNF>69832.8</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

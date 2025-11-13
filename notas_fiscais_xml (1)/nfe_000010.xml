@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe58860378502095207595442128812976656616803615" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>50892779</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000010</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>17.893.245/0001-98</CNPJ>
+                <xNome>DUARTE GARCIA S.A.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>74.862.305/0001-49</CNPJ>
+                <xNome>BEATRIZ MONTEIRO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>4473862023149407</cProd>
+            <xProd>BLANDITIIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>96.578</qCom>
+            <vUnCom>572.07</vUnCom>
+            <vProd>55249.38</vProd>
+            <rastro>
+                <nLote>5517431</nLote>
+                <qLote>96.578</qLote>
+                <dFab>2025-09-08</dFab>
+                <dVal>2026-05-07</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>9944.89</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>2959563588510379</cProd>
+            <xProd>VERITATIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>42.719</qCom>
+            <vUnCom>786.11</vUnCom>
+            <vProd>33581.83</vProd>
+            <rastro>
+                <nLote>5575359</nLote>
+                <qLote>42.719</qLote>
+                <dFab>2025-09-14</dFab>
+                <dVal>2025-12-17</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6044.73</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>88831.21</vProd>
+                    <vICMS>15989.62</vICMS>
+                    <vNF>88831.21</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

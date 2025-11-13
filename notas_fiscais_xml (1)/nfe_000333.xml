@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe87540071120630197862276471672293219637071231" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>65040130</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000333</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>82.564.179/0001-74</CNPJ>
+                <xNome>MACHADO MOURA - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>41.965.038/0001-86</CNPJ>
+                <xNome>PEDRO MIGUEL ALBUQUERQUE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8712625046682067</cProd>
+            <xProd>QUIBUSDAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>34.975</qCom>
+            <vUnCom>770.78</vUnCom>
+            <vProd>26958.03</vProd>
+            <rastro>
+                <nLote>3696178</nLote>
+                <qLote>34.975</qLote>
+                <dFab>2025-07-23</dFab>
+                <dVal>2026-09-01</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4852.45</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>2781524140312440</cProd>
+            <xProd>VOLUPTAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>12.866</qCom>
+            <vUnCom>541.22</vUnCom>
+            <vProd>6963.34</vProd>
+            <rastro>
+                <nLote>5841648</nLote>
+                <qLote>12.866</qLote>
+                <dFab>2025-08-05</dFab>
+                <dVal>2026-10-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1253.4</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>33921.37</vProd>
+                    <vICMS>6105.85</vICMS>
+                    <vNF>33921.37</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

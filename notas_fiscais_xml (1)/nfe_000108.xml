@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe45121564691616863545656991060704492131556039" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>21534958</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000108</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>25.183.964/0001-43</CNPJ>
+                <xNome>SOUSA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>97.561.302/0001-70</CNPJ>
+                <xNome>LUAN SOUZA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>9957042277129440</cProd>
+            <xProd>QUI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>15.162</qCom>
+            <vUnCom>246.31</vUnCom>
+            <vProd>3734.55</vProd>
+            <rastro>
+                <nLote>7771750</nLote>
+                <qLote>15.162</qLote>
+                <dFab>2025-08-10</dFab>
+                <dVal>2026-10-03</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>672.22</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>7577618025938614</cProd>
+            <xProd>DOLOR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>4.234</qCom>
+            <vUnCom>732.85</vUnCom>
+            <vProd>3102.89</vProd>
+            <rastro>
+                <nLote>6214671</nLote>
+                <qLote>4.234</qLote>
+                <dFab>2025-10-16</dFab>
+                <dVal>2026-10-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>558.52</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>6837.44</vProd>
+                    <vICMS>1230.74</vICMS>
+                    <vNF>6837.44</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

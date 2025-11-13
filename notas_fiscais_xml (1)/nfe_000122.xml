@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe54757230629596689982326845460386496537801296" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>68709921</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000122</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>79.461.205/0001-24</CNPJ>
+                <xNome>DA PAZ SILVA - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>08.154.673/0001-08</CNPJ>
+                <xNome>LUIGI CAVALCANTE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7889531383483930</cProd>
+            <xProd>MAGNI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>5.673</qCom>
+            <vUnCom>998.46</vUnCom>
+            <vProd>5664.26</vProd>
+            <rastro>
+                <nLote>5596450</nLote>
+                <qLote>5.673</qLote>
+                <dFab>2025-10-06</dFab>
+                <dVal>2026-08-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1019.57</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3058535809362373</cProd>
+            <xProd>MAIORES</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>92.962</qCom>
+            <vUnCom>496.65</vUnCom>
+            <vProd>46169.58</vProd>
+            <rastro>
+                <nLote>5099735</nLote>
+                <qLote>92.962</qLote>
+                <dFab>2025-10-12</dFab>
+                <dVal>2025-12-12</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>8310.52</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>51833.84</vProd>
+                    <vICMS>9330.09</vICMS>
+                    <vNF>51833.84</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

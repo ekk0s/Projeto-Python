@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe41962157491254551620569058431098724662425642" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>17870924</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000025</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>18.376.920/0001-74</CNPJ>
+                <xNome>SOUSA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>75.012.649/0001-21</CNPJ>
+                <xNome>LUANA PINTO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5409677211563744</cProd>
+            <xProd>VOLUPTATEM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>20.968</qCom>
+            <vUnCom>370.0</vUnCom>
+            <vProd>7758.16</vProd>
+            <rastro>
+                <nLote>3567941</nLote>
+                <qLote>20.968</qLote>
+                <dFab>2025-10-29</dFab>
+                <dVal>2026-08-15</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1396.47</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>7758.16</vProd>
+                    <vICMS>1396.47</vICMS>
+                    <vNF>7758.16</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe12818523373656230636488703022214983568292183" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>49129834</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000084</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>37.562.804/0001-94</CNPJ>
+                <xNome>RODRIGUES</xNome>
+            </emit>
+            <dest>
+                <CNPJ>96.073.285/0001-60</CNPJ>
+                <xNome>ANA LAURA SILVA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8820296080424177</cProd>
+            <xProd>BLANDITIIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>16.531</qCom>
+            <vUnCom>67.77</vUnCom>
+            <vProd>1120.31</vProd>
+            <rastro>
+                <nLote>5363754</nLote>
+                <qLote>16.531</qLote>
+                <dFab>2025-08-31</dFab>
+                <dVal>2026-06-08</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>201.66</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>2921791680651787</cProd>
+            <xProd>NATUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>3.521</qCom>
+            <vUnCom>588.98</vUnCom>
+            <vProd>2073.8</vProd>
+            <rastro>
+                <nLote>1026445</nLote>
+                <qLote>3.521</qLote>
+                <dFab>2025-08-07</dFab>
+                <dVal>2026-05-14</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>373.28</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>3194.11</vProd>
+                    <vICMS>574.94</vICMS>
+                    <vNF>3194.11</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

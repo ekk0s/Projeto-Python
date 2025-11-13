@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe44394935955023727031860889557201940586051935" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>19541257</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000147</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>54.019.826/0001-21</CNPJ>
+                <xNome>SOUZA LTDA.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>74.621.309/0001-35</CNPJ>
+                <xNome>ISABELLA CASA GRANDE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8590268447950279</cProd>
+            <xProd>UT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>46.071</qCom>
+            <vUnCom>830.56</vUnCom>
+            <vProd>38264.73</vProd>
+            <rastro>
+                <nLote>3686985</nLote>
+                <qLote>46.071</qLote>
+                <dFab>2025-08-25</dFab>
+                <dVal>2026-02-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6887.65</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>8506228372129116</cProd>
+            <xProd>MOLLITIA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>10.48</qCom>
+            <vUnCom>254.25</vUnCom>
+            <vProd>2664.54</vProd>
+            <rastro>
+                <nLote>1802476</nLote>
+                <qLote>10.48</qLote>
+                <dFab>2025-08-19</dFab>
+                <dVal>2026-07-17</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>479.62</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>9020768402708052</cProd>
+            <xProd>DICTA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>19.313</qCom>
+            <vUnCom>980.12</vUnCom>
+            <vProd>18929.06</vProd>
+            <rastro>
+                <nLote>6768423</nLote>
+                <qLote>19.313</qLote>
+                <dFab>2025-10-02</dFab>
+                <dVal>2026-02-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3407.23</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>59858.33</vProd>
+                    <vICMS>10774.5</vICMS>
+                    <vNF>59858.33</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

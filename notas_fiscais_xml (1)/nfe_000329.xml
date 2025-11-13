@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe77157521903651680579052077004879542583870810" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>30425904</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000329</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>85.017.942/0001-35</CNPJ>
+                <xNome>CAMARGO S.A.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>62.195.347/0001-94</CNPJ>
+                <xNome>ESTER DA CONCEIÇÃO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>4847673594761449</cProd>
+            <xProd>DELENITI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>41.151</qCom>
+            <vUnCom>869.34</vUnCom>
+            <vProd>35774.21</vProd>
+            <rastro>
+                <nLote>1191826</nLote>
+                <qLote>41.151</qLote>
+                <dFab>2025-07-23</dFab>
+                <dVal>2026-05-18</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6439.36</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>35774.21</vProd>
+                    <vICMS>6439.36</vICMS>
+                    <vNF>35774.21</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

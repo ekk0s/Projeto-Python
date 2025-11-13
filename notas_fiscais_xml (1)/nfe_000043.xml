@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe50156379752793832473000151543811513764284202" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>42313709</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000043</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>65.290.148/0001-53</CNPJ>
+                <xNome>DA CUNHA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>01.759.468/0001-27</CNPJ>
+                <xNome>PAULO REZENDE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2324822633822425</cProd>
+            <xProd>SUNT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>73.601</qCom>
+            <vUnCom>876.01</vUnCom>
+            <vProd>64475.21</vProd>
+            <rastro>
+                <nLote>5635943</nLote>
+                <qLote>73.601</qLote>
+                <dFab>2025-08-15</dFab>
+                <dVal>2026-08-31</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>11605.54</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>64475.21</vProd>
+                    <vICMS>11605.54</vICMS>
+                    <vNF>64475.21</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

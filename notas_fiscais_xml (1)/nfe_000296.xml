@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe78313874228226903701569214942494026151037076" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>53772892</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000296</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>40.732.691/0001-32</CNPJ>
+                <xNome>AZEVEDO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>26.185.907/0001-66</CNPJ>
+                <xNome>YURI PIRES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1497180197471899</cProd>
+            <xProd>PARIATUR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>85.261</qCom>
+            <vUnCom>220.42</vUnCom>
+            <vProd>18793.23</vProd>
+            <rastro>
+                <nLote>9788505</nLote>
+                <qLote>85.261</qLote>
+                <dFab>2025-07-23</dFab>
+                <dVal>2026-05-08</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3382.78</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3545946124128171</cProd>
+            <xProd>MOLLITIA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>92.825</qCom>
+            <vUnCom>812.07</vUnCom>
+            <vProd>75380.4</vProd>
+            <rastro>
+                <nLote>3206104</nLote>
+                <qLote>92.825</qLote>
+                <dFab>2025-07-29</dFab>
+                <dVal>2025-12-07</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>13568.47</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>94173.63</vProd>
+                    <vICMS>16951.25</vICMS>
+                    <vNF>94173.63</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

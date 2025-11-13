@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe95185825891368697035394688219165865783578419" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>93388456</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000408</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>04.613.895/0001-90</CNPJ>
+                <xNome>MARTINS E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>41.892.563/0001-19</CNPJ>
+                <xNome>DANILO SALES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8443652240536018</cProd>
+            <xProd>DIGNISSIMOS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>54.915</qCom>
+            <vUnCom>144.01</vUnCom>
+            <vProd>7908.31</vProd>
+            <rastro>
+                <nLote>4385915</nLote>
+                <qLote>54.915</qLote>
+                <dFab>2025-08-20</dFab>
+                <dVal>2026-04-30</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1423.5</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>1880749218732705</cProd>
+            <xProd>LAUDANTIUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>3.282</qCom>
+            <vUnCom>248.99</vUnCom>
+            <vProd>817.19</vProd>
+            <rastro>
+                <nLote>6507398</nLote>
+                <qLote>3.282</qLote>
+                <dFab>2025-09-18</dFab>
+                <dVal>2026-02-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>147.09</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>8725.5</vProd>
+                    <vICMS>1570.59</vICMS>
+                    <vNF>8725.5</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

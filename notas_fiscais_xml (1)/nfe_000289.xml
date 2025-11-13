@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe21441809182195078639289993083487695652099093" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>89761879</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000289</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>09.862.471/0001-83</CNPJ>
+                <xNome>GARCIA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>64.781.953/0001-17</CNPJ>
+                <xNome>RAVI FERNANDES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1809668658250651</cProd>
+            <xProd>AT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>3.976</qCom>
+            <vUnCom>145.67</vUnCom>
+            <vProd>579.18</vProd>
+            <rastro>
+                <nLote>5090116</nLote>
+                <qLote>3.976</qLote>
+                <dFab>2025-09-08</dFab>
+                <dVal>2026-10-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>104.25</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>579.18</vProd>
+                    <vICMS>104.25</vICMS>
+                    <vNF>579.18</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

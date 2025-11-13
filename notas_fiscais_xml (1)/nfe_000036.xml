@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe15240476873062963475443831841272181229982403" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>25357794</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000036</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>04.317.589/0001-07</CNPJ>
+                <xNome>MORAES</xNome>
+            </emit>
+            <dest>
+                <CNPJ>14.572.836/0001-75</CNPJ>
+                <xNome>ANA LUIZA GARCIA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5255935353539634</cProd>
+            <xProd>TOTAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>67.931</qCom>
+            <vUnCom>381.26</vUnCom>
+            <vProd>25899.37</vProd>
+            <rastro>
+                <nLote>5740394</nLote>
+                <qLote>67.931</qLote>
+                <dFab>2025-07-28</dFab>
+                <dVal>2026-07-26</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4661.89</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>25899.37</vProd>
+                    <vICMS>4661.89</vICMS>
+                    <vNF>25899.37</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

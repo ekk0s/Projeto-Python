@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe29307375845226728797454386706524562641975576" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>24228646</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000407</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>46.079.812/0001-75</CNPJ>
+                <xNome>CASTRO DAS NEVES - ME</xNome>
+            </emit>
+            <dest>
+                <CNPJ>90.314.586/0001-51</CNPJ>
+                <xNome>SRA. ALICE FREITAS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3011288772051567</cProd>
+            <xProd>QUIBUSDAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>84.246</qCom>
+            <vUnCom>614.08</vUnCom>
+            <vProd>51733.78</vProd>
+            <rastro>
+                <nLote>1427719</nLote>
+                <qLote>84.246</qLote>
+                <dFab>2025-08-28</dFab>
+                <dVal>2026-09-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>9312.08</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>8494438853522822</cProd>
+            <xProd>CULPA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>70.993</qCom>
+            <vUnCom>490.24</vUnCom>
+            <vProd>34803.61</vProd>
+            <rastro>
+                <nLote>1995140</nLote>
+                <qLote>70.993</qLote>
+                <dFab>2025-10-22</dFab>
+                <dVal>2026-04-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6264.65</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>86537.39</vProd>
+                    <vICMS>15576.73</vICMS>
+                    <vNF>86537.39</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

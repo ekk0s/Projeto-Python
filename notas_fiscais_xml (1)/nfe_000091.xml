@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe57333165962767762754298408499080616615909093" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>34813954</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000091</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>03.716.428/0001-23</CNPJ>
+                <xNome>ABREU E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>72.145.893/0001-74</CNPJ>
+                <xNome>LUARA CARDOSO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8305963375574271</cProd>
+            <xProd>VERITATIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>54.071</qCom>
+            <vUnCom>571.81</vUnCom>
+            <vProd>30918.34</vProd>
+            <rastro>
+                <nLote>7776351</nLote>
+                <qLote>54.071</qLote>
+                <dFab>2025-08-09</dFab>
+                <dVal>2026-09-26</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5565.3</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>1229038033775742</cProd>
+            <xProd>MODI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>61.748</qCom>
+            <vUnCom>633.92</vUnCom>
+            <vProd>39143.29</vProd>
+            <rastro>
+                <nLote>9142182</nLote>
+                <qLote>61.748</qLote>
+                <dFab>2025-07-31</dFab>
+                <dVal>2026-09-06</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>7045.79</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>70061.63</vProd>
+                    <vICMS>12611.09</vICMS>
+                    <vNF>70061.63</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

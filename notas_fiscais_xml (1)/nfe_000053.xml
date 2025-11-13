@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe73807430932150867540637536243369766384135689" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>42471626</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000053</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>91.053.264/0001-69</CNPJ>
+                <xNome>SANTOS CARVALHO LTDA.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>78.641.305/0001-70</CNPJ>
+                <xNome>VALENTINA CASA GRANDE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3912590325007604</cProd>
+            <xProd>PROVIDENT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>2.384</qCom>
+            <vUnCom>33.62</vUnCom>
+            <vProd>80.15</vProd>
+            <rastro>
+                <nLote>1938451</nLote>
+                <qLote>2.384</qLote>
+                <dFab>2025-08-24</dFab>
+                <dVal>2026-08-23</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>14.43</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>80.15</vProd>
+                    <vICMS>14.43</vICMS>
+                    <vNF>80.15</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

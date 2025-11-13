@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe37479713161778878766625744253464930538336657" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>33529084</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000378</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>52.187.094/0001-53</CNPJ>
+                <xNome>TEIXEIRA DA COSTA - ME</xNome>
+            </emit>
+            <dest>
+                <CNPJ>53.297.041/0001-58</CNPJ>
+                <xNome>ALÍCIA DAS NEVES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1779235471859664</cProd>
+            <xProd>QUAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>52.596</qCom>
+            <vUnCom>456.54</vUnCom>
+            <vProd>24012.18</vProd>
+            <rastro>
+                <nLote>8554466</nLote>
+                <qLote>52.596</qLote>
+                <dFab>2025-10-12</dFab>
+                <dVal>2026-02-24</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4322.19</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>8001210400035806</cProd>
+            <xProd>ERROR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>71.289</qCom>
+            <vUnCom>499.4</vUnCom>
+            <vProd>35601.73</vProd>
+            <rastro>
+                <nLote>3876596</nLote>
+                <qLote>71.289</qLote>
+                <dFab>2025-10-17</dFab>
+                <dVal>2026-08-03</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6408.31</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>59613.91</vProd>
+                    <vICMS>10730.5</vICMS>
+                    <vNF>59613.91</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

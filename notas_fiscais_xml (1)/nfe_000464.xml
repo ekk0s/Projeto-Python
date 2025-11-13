@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe59226787187974168981469954763887480900669985" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>47197000</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000464</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>01.825.764/0001-89</CNPJ>
+                <xNome>RIBEIRO - ME</xNome>
+            </emit>
+            <dest>
+                <CNPJ>39.825.401/0001-16</CNPJ>
+                <xNome>LUNNA DA MATA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>2055921617386354</cProd>
+            <xProd>VERO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>27.287</qCom>
+            <vUnCom>891.24</vUnCom>
+            <vProd>24319.27</vProd>
+            <rastro>
+                <nLote>2568790</nLote>
+                <qLote>27.287</qLote>
+                <dFab>2025-08-18</dFab>
+                <dVal>2025-12-07</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4377.47</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>2107812226705297</cProd>
+            <xProd>QUIDEM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>1.693</qCom>
+            <vUnCom>185.04</vUnCom>
+            <vProd>313.27</vProd>
+            <rastro>
+                <nLote>3240381</nLote>
+                <qLote>1.693</qLote>
+                <dFab>2025-08-03</dFab>
+                <dVal>2026-03-07</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>56.39</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>24632.54</vProd>
+                    <vICMS>4433.86</vICMS>
+                    <vNF>24632.54</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

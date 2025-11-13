@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe58908699681697005908274920312184164827814570" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>12369864</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000050</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>74.860.192/0001-42</CNPJ>
+                <xNome>ROCHA E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>50.497.361/0001-63</CNPJ>
+                <xNome>MARIA LAURA DA ROSA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>9229382494710276</cProd>
+            <xProd>DESERUNT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>8.426</qCom>
+            <vUnCom>144.13</vUnCom>
+            <vProd>1214.44</vProd>
+            <rastro>
+                <nLote>9657477</nLote>
+                <qLote>8.426</qLote>
+                <dFab>2025-10-12</dFab>
+                <dVal>2026-01-10</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>218.6</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3440275251116197</cProd>
+            <xProd>DOLOREM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>94.608</qCom>
+            <vUnCom>978.71</vUnCom>
+            <vProd>92593.8</vProd>
+            <rastro>
+                <nLote>4691440</nLote>
+                <qLote>94.608</qLote>
+                <dFab>2025-07-30</dFab>
+                <dVal>2026-06-01</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>16666.88</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>93808.24</vProd>
+                    <vICMS>16885.48</vICMS>
+                    <vNF>93808.24</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

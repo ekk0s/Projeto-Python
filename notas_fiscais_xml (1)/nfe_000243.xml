@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe74921655721395002826908612992986708524294229" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>31454723</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000243</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>68.472.130/0001-60</CNPJ>
+                <xNome>MOURA GARCIA - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>26.143.589/0001-70</CNPJ>
+                <xNome>CECILIA ALMEIDA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7060949830033936</cProd>
+            <xProd>OFFICIIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>77.004</qCom>
+            <vUnCom>277.77</vUnCom>
+            <vProd>21389.4</vProd>
+            <rastro>
+                <nLote>8898267</nLote>
+                <qLote>77.004</qLote>
+                <dFab>2025-07-23</dFab>
+                <dVal>2026-01-02</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3850.09</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>21389.4</vProd>
+                    <vICMS>3850.09</vICMS>
+                    <vNF>21389.4</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

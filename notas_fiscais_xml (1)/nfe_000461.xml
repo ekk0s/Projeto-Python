@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe84560503726152622976746169444957131726222217" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>76903908</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000461</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>85.290.467/0001-76</CNPJ>
+                <xNome>TEIXEIRA E FILHOS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>27.089.634/0001-19</CNPJ>
+                <xNome>DR. DANTE DA ROCHA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1685511032604302</cProd>
+            <xProd>LABORE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>57.017</qCom>
+            <vUnCom>633.89</vUnCom>
+            <vProd>36142.51</vProd>
+            <rastro>
+                <nLote>4491559</nLote>
+                <qLote>57.017</qLote>
+                <dFab>2025-09-22</dFab>
+                <dVal>2026-02-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6505.65</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>2491174387213307</cProd>
+            <xProd>INVENTORE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>35.079</qCom>
+            <vUnCom>874.45</vUnCom>
+            <vProd>30674.83</vProd>
+            <rastro>
+                <nLote>9276401</nLote>
+                <qLote>35.079</qLote>
+                <dFab>2025-08-13</dFab>
+                <dVal>2026-06-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5521.47</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>66817.34</vProd>
+                    <vICMS>12027.12</vICMS>
+                    <vNF>66817.34</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

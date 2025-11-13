@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe63057774814411924210174697701744530617737263" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>53156809</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000474</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>03.569.174/0001-68</CNPJ>
+                <xNome>PEREIRA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>14.370.892/0001-27</CNPJ>
+                <xNome>YAGO CÂMARA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5011194869316611</cProd>
+            <xProd>VERITATIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>55.83</qCom>
+            <vUnCom>470.49</vUnCom>
+            <vProd>26267.46</vProd>
+            <rastro>
+                <nLote>1004050</nLote>
+                <qLote>55.83</qLote>
+                <dFab>2025-07-26</dFab>
+                <dVal>2026-07-28</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4728.14</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>2252552646912956</cProd>
+            <xProd>SEQUI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>95.404</qCom>
+            <vUnCom>877.68</vUnCom>
+            <vProd>83734.18</vProd>
+            <rastro>
+                <nLote>3384942</nLote>
+                <qLote>95.404</qLote>
+                <dFab>2025-08-08</dFab>
+                <dVal>2026-04-03</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>15072.15</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>8935637199048382</cProd>
+            <xProd>CONSEQUUNTUR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>46.787</qCom>
+            <vUnCom>376.13</vUnCom>
+            <vProd>17597.99</vProd>
+            <rastro>
+                <nLote>2982343</nLote>
+                <qLote>46.787</qLote>
+                <dFab>2025-09-30</dFab>
+                <dVal>2026-01-19</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3167.64</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>7986797891261779</cProd>
+            <xProd>OMNIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>86.261</qCom>
+            <vUnCom>890.38</vUnCom>
+            <vProd>76805.07</vProd>
+            <rastro>
+                <nLote>6656886</nLote>
+                <qLote>86.261</qLote>
+                <dFab>2025-09-05</dFab>
+                <dVal>2026-03-28</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>13824.91</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>204404.7</vProd>
+                    <vICMS>36792.85</vICMS>
+                    <vNF>204404.7</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

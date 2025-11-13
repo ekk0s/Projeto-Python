@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe50008222372688256213088765272156011853449233" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>45156365</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000486</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>14.923.860/0001-01</CNPJ>
+                <xNome>CAVALCANTE DUARTE S/A</xNome>
+            </emit>
+            <dest>
+                <CNPJ>56.734.820/0001-61</CNPJ>
+                <xNome>ANTHONY GABRIEL BRITO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>9194571641966476</cProd>
+            <xProd>MOLESTIAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>47.077</qCom>
+            <vUnCom>460.96</vUnCom>
+            <vProd>21700.61</vProd>
+            <rastro>
+                <nLote>2274849</nLote>
+                <qLote>47.077</qLote>
+                <dFab>2025-10-24</dFab>
+                <dVal>2026-09-12</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3906.11</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>4616237286473184</cProd>
+            <xProd>ANIMI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>5.069</qCom>
+            <vUnCom>981.51</vUnCom>
+            <vProd>4975.27</vProd>
+            <rastro>
+                <nLote>4956271</nLote>
+                <qLote>5.069</qLote>
+                <dFab>2025-08-26</dFab>
+                <dVal>2026-06-02</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>895.55</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>7026321086683249</cProd>
+            <xProd>VERITATIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>44.021</qCom>
+            <vUnCom>854.41</vUnCom>
+            <vProd>37611.98</vProd>
+            <rastro>
+                <nLote>6889802</nLote>
+                <qLote>44.021</qLote>
+                <dFab>2025-08-02</dFab>
+                <dVal>2026-05-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6770.16</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>1341781605716628</cProd>
+            <xProd>ET</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>45.569</qCom>
+            <vUnCom>356.95</vUnCom>
+            <vProd>16265.85</vProd>
+            <rastro>
+                <nLote>8396534</nLote>
+                <qLote>45.569</qLote>
+                <dFab>2025-08-18</dFab>
+                <dVal>2026-05-06</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2927.85</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="5">
+        <prod>
+            <cProd>1404529330945741</cProd>
+            <xProd>MAGNAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>85.617</qCom>
+            <vUnCom>241.64</vUnCom>
+            <vProd>20688.49</vProd>
+            <rastro>
+                <nLote>2033897</nLote>
+                <qLote>85.617</qLote>
+                <dFab>2025-09-25</dFab>
+                <dVal>2026-04-14</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3723.93</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>101242.2</vProd>
+                    <vICMS>18223.6</vICMS>
+                    <vNF>101242.2</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe78405785014125995466460635794912492369554904" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>87135819</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000401</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>26.813.475/0001-90</CNPJ>
+                <xNome>SOUSA LTDA.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>34.702.958/0001-46</CNPJ>
+                <xNome>GABRIELA MARQUES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5400292463966890</cProd>
+            <xProd>DIGNISSIMOS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>17.246</qCom>
+            <vUnCom>187.64</vUnCom>
+            <vProd>3236.04</vProd>
+            <rastro>
+                <nLote>4549729</nLote>
+                <qLote>17.246</qLote>
+                <dFab>2025-09-16</dFab>
+                <dVal>2025-12-08</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>582.49</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3726139864152900</cProd>
+            <xProd>APERIAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>33.808</qCom>
+            <vUnCom>966.3</vUnCom>
+            <vProd>32668.67</vProd>
+            <rastro>
+                <nLote>6292645</nLote>
+                <qLote>33.808</qLote>
+                <dFab>2025-10-14</dFab>
+                <dVal>2026-03-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>5880.36</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>4502615447924200</cProd>
+            <xProd>DOLOR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>36.23</qCom>
+            <vUnCom>286.26</vUnCom>
+            <vProd>10371.2</vProd>
+            <rastro>
+                <nLote>7147042</nLote>
+                <qLote>36.23</qLote>
+                <dFab>2025-10-11</dFab>
+                <dVal>2026-02-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1866.82</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>46275.91</vProd>
+                    <vICMS>8329.66</vICMS>
+                    <vNF>46275.91</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

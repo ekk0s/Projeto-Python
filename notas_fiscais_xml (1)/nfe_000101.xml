@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe50887522816578576178810777849326455343926438" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>27680718</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000101</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>70.694.832/0001-30</CNPJ>
+                <xNome>JESUS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>51.309.627/0001-60</CNPJ>
+                <xNome>MARIA VITÓRIA ROCHA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3596504466106194</cProd>
+            <xProd>DUCIMUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>45.798</qCom>
+            <vUnCom>592.57</vUnCom>
+            <vProd>27138.52</vProd>
+            <rastro>
+                <nLote>5555169</nLote>
+                <qLote>45.798</qLote>
+                <dFab>2025-10-26</dFab>
+                <dVal>2025-12-06</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4884.93</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>4438280375234235</cProd>
+            <xProd>PORRO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>21.96</qCom>
+            <vUnCom>637.64</vUnCom>
+            <vProd>14002.57</vProd>
+            <rastro>
+                <nLote>3329676</nLote>
+                <qLote>21.96</qLote>
+                <dFab>2025-10-29</dFab>
+                <dVal>2026-10-10</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2520.46</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>41141.09</vProd>
+                    <vICMS>7405.4</vICMS>
+                    <vNF>41141.09</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

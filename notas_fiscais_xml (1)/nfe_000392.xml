@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe18184055295084757293392620342971031308007076" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>51494326</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000392</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>71.356.489/0001-87</CNPJ>
+                <xNome>VASCONCELOS - EI</xNome>
+            </emit>
+            <dest>
+                <CNPJ>24.189.605/0001-30</CNPJ>
+                <xNome>LUIZ HENRIQUE CAMPOS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8715663241683866</cProd>
+            <xProd>VOLUPTATEM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>86.36</qCom>
+            <vUnCom>925.59</vUnCom>
+            <vProd>79933.95</vProd>
+            <rastro>
+                <nLote>5421664</nLote>
+                <qLote>86.36</qLote>
+                <dFab>2025-07-31</dFab>
+                <dVal>2026-05-08</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>14388.11</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>7515651468392086</cProd>
+            <xProd>VERITATIS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>17.451</qCom>
+            <vUnCom>486.91</vUnCom>
+            <vProd>8497.07</vProd>
+            <rastro>
+                <nLote>6039685</nLote>
+                <qLote>17.451</qLote>
+                <dFab>2025-08-12</dFab>
+                <dVal>2026-04-07</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1529.47</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>3079028737793406</cProd>
+            <xProd>ANIMI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>23.235</qCom>
+            <vUnCom>892.9</vUnCom>
+            <vProd>20746.53</vProd>
+            <rastro>
+                <nLote>8344101</nLote>
+                <qLote>23.235</qLote>
+                <dFab>2025-09-08</dFab>
+                <dVal>2026-03-31</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3734.38</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>109177.55</vProd>
+                    <vICMS>19651.96</vICMS>
+                    <vNF>109177.55</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

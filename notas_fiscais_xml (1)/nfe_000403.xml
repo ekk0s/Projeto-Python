@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe46915498715422933038899402131895297411258771" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>83740223</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000403</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>47.680.215/0001-64</CNPJ>
+                <xNome>GUERRA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>63.072.895/0001-90</CNPJ>
+                <xNome>CAIO SILVEIRA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3429095750646131</cProd>
+            <xProd>APERIAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>63.994</qCom>
+            <vUnCom>23.99</vUnCom>
+            <vProd>1535.22</vProd>
+            <rastro>
+                <nLote>8365465</nLote>
+                <qLote>63.994</qLote>
+                <dFab>2025-09-09</dFab>
+                <dVal>2026-02-06</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>276.34</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>1485181962254871</cProd>
+            <xProd>DOLORUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>9.282</qCom>
+            <vUnCom>375.14</vUnCom>
+            <vProd>3482.05</vProd>
+            <rastro>
+                <nLote>1424313</nLote>
+                <qLote>9.282</qLote>
+                <dFab>2025-09-27</dFab>
+                <dVal>2026-09-10</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>626.77</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>5017.27</vProd>
+                    <vICMS>903.11</vICMS>
+                    <vNF>5017.27</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

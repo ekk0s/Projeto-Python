@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe56460474347008083288609424651008112094941262" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>63973269</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000105</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>75.190.248/0001-61</CNPJ>
+                <xNome>ALBUQUERQUE</xNome>
+            </emit>
+            <dest>
+                <CNPJ>72.419.650/0001-87</CNPJ>
+                <xNome>SR. LIAM LEÃO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7502834576353947</cProd>
+            <xProd>QUOS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>36.573</qCom>
+            <vUnCom>630.31</vUnCom>
+            <vProd>23052.33</vProd>
+            <rastro>
+                <nLote>1291306</nLote>
+                <qLote>36.573</qLote>
+                <dFab>2025-10-25</dFab>
+                <dVal>2026-01-06</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4149.42</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>6836582505433668</cProd>
+            <xProd>QUAERAT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>76.593</qCom>
+            <vUnCom>972.96</vUnCom>
+            <vProd>74521.93</vProd>
+            <rastro>
+                <nLote>1671414</nLote>
+                <qLote>76.593</qLote>
+                <dFab>2025-10-19</dFab>
+                <dVal>2026-07-05</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>13413.95</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>97574.26</vProd>
+                    <vICMS>17563.37</vICMS>
+                    <vNF>97574.26</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

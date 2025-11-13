@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe90595684942697593235305688004576908286940486" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>14658893</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000152</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>02.974.315/0001-65</CNPJ>
+                <xNome>FOGAÇA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>74.361.592/0001-03</CNPJ>
+                <xNome>HENRIQUE MACEDO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1771152988041899</cProd>
+            <xProd>MOLLITIA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>17.71</qCom>
+            <vUnCom>266.29</vUnCom>
+            <vProd>4716.0</vProd>
+            <rastro>
+                <nLote>1367570</nLote>
+                <qLote>17.71</qLote>
+                <dFab>2025-10-10</dFab>
+                <dVal>2026-10-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>848.88</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>6909738027172472</cProd>
+            <xProd>POSSIMUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>32.133</qCom>
+            <vUnCom>384.9</vUnCom>
+            <vProd>12367.99</vProd>
+            <rastro>
+                <nLote>3692922</nLote>
+                <qLote>32.133</qLote>
+                <dFab>2025-08-13</dFab>
+                <dVal>2025-12-23</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2226.24</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>17083.99</vProd>
+                    <vICMS>3075.12</vICMS>
+                    <vNF>17083.99</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

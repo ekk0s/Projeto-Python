@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe86848288168541913672655113150591781497507688" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>74758704</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000231</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>97.528.136/0001-00</CNPJ>
+                <xNome>ARAGÃO</xNome>
+            </emit>
+            <dest>
+                <CNPJ>46.751.832/0001-40</CNPJ>
+                <xNome>DR. FELIPE NOVAES</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>5907285518260638</cProd>
+            <xProd>SIT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>14.783</qCom>
+            <vUnCom>543.69</vUnCom>
+            <vProd>8037.37</vProd>
+            <rastro>
+                <nLote>2897504</nLote>
+                <qLote>14.783</qLote>
+                <dFab>2025-09-27</dFab>
+                <dVal>2026-05-21</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1446.73</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3926773212379882</cProd>
+            <xProd>QUAS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>70.819</qCom>
+            <vUnCom>314.62</vUnCom>
+            <vProd>22281.07</vProd>
+            <rastro>
+                <nLote>9710808</nLote>
+                <qLote>70.819</qLote>
+                <dFab>2025-09-11</dFab>
+                <dVal>2026-01-10</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4010.59</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>30318.44</vProd>
+                    <vICMS>5457.32</vICMS>
+                    <vNF>30318.44</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe86884074404726755828547303584008729554763346" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>51622298</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000388</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>54.903.812/0001-76</CNPJ>
+                <xNome>ROCHA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>24.375.061/0001-00</CNPJ>
+                <xNome>FRANCISCO RIOS</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7559126761999869</cProd>
+            <xProd>IMPEDIT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>4.733</qCom>
+            <vUnCom>606.73</vUnCom>
+            <vProd>2871.65</vProd>
+            <rastro>
+                <nLote>8718201</nLote>
+                <qLote>4.733</qLote>
+                <dFab>2025-09-24</dFab>
+                <dVal>2026-02-27</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>516.9</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3001631597306901</cProd>
+            <xProd>TENETUR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>33.422</qCom>
+            <vUnCom>163.78</vUnCom>
+            <vProd>5473.86</vProd>
+            <rastro>
+                <nLote>6041075</nLote>
+                <qLote>33.422</qLote>
+                <dFab>2025-07-29</dFab>
+                <dVal>2026-01-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>985.29</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>8657292539533763</cProd>
+            <xProd>CONSEQUUNTUR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>41.105</qCom>
+            <vUnCom>504.2</vUnCom>
+            <vProd>20725.14</vProd>
+            <rastro>
+                <nLote>8268406</nLote>
+                <qLote>41.105</qLote>
+                <dFab>2025-08-11</dFab>
+                <dVal>2026-02-25</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3730.53</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>29070.65</vProd>
+                    <vICMS>5232.72</vICMS>
+                    <vNF>29070.65</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

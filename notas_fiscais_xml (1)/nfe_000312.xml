@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe47547110657013180971794821503325349923467593" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>95403507</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000312</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>07.921.836/0001-78</CNPJ>
+                <xNome>DUARTE PACHECO LTDA.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>92.786.034/0001-71</CNPJ>
+                <xNome>CATARINA BARBOSA</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8279528763471576</cProd>
+            <xProd>ELIGENDI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>75.234</qCom>
+            <vUnCom>112.02</vUnCom>
+            <vProd>8427.71</vProd>
+            <rastro>
+                <nLote>7762348</nLote>
+                <qLote>75.234</qLote>
+                <dFab>2025-10-11</dFab>
+                <dVal>2026-06-03</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1516.99</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>3774105735069302</cProd>
+            <xProd>ISTE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>63.219</qCom>
+            <vUnCom>544.45</vUnCom>
+            <vProd>34419.58</vProd>
+            <rastro>
+                <nLote>1078036</nLote>
+                <qLote>63.219</qLote>
+                <dFab>2025-08-05</dFab>
+                <dVal>2026-07-26</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>6195.52</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>1404062760260640</cProd>
+            <xProd>MODI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>50.649</qCom>
+            <vUnCom>447.84</vUnCom>
+            <vProd>22682.65</vProd>
+            <rastro>
+                <nLote>2760776</nLote>
+                <qLote>50.649</qLote>
+                <dFab>2025-09-27</dFab>
+                <dVal>2026-09-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4082.88</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>8980524719193219</cProd>
+            <xProd>ELIGENDI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>7.911</qCom>
+            <vUnCom>362.17</vUnCom>
+            <vProd>2865.13</vProd>
+            <rastro>
+                <nLote>2025764</nLote>
+                <qLote>7.911</qLote>
+                <dFab>2025-09-03</dFab>
+                <dVal>2025-12-31</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>515.72</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="5">
+        <prod>
+            <cProd>2372024931161087</cProd>
+            <xProd>VOLUPTATIBUS</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>7.679</qCom>
+            <vUnCom>637.83</vUnCom>
+            <vProd>4897.9</vProd>
+            <rastro>
+                <nLote>9714635</nLote>
+                <qLote>7.679</qLote>
+                <dFab>2025-09-06</dFab>
+                <dVal>2026-06-09</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>881.62</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>73292.97</vProd>
+                    <vICMS>13192.73</vICMS>
+                    <vNF>73292.97</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

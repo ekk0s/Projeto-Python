@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe84269877446653425268700435738352261375383012" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>64193781</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000456</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>84.139.705/0001-84</CNPJ>
+                <xNome>MOREIRA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>78.619.423/0001-81</CNPJ>
+                <xNome>VALENTIM CIRINO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7581026056345085</cProd>
+            <xProd>EARUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>82.454</qCom>
+            <vUnCom>292.07</vUnCom>
+            <vProd>24082.34</vProd>
+            <rastro>
+                <nLote>1909130</nLote>
+                <qLote>82.454</qLote>
+                <dFab>2025-08-12</dFab>
+                <dVal>2026-06-05</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>4334.82</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>24082.34</vProd>
+                    <vICMS>4334.82</vICMS>
+                    <vNF>24082.34</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe85081862031408056368857344336149339020451803" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>34481121</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000415</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>30.892.567/0001-80</CNPJ>
+                <xNome>SILVEIRA S.A.</xNome>
+            </emit>
+            <dest>
+                <CNPJ>50.197.432/0001-02</CNPJ>
+                <xNome>ANA LÍVIA PINTO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>1384561007805959</cProd>
+            <xProd>LIBERO</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>53.316</qCom>
+            <vUnCom>903.36</vUnCom>
+            <vProd>48163.54</vProd>
+            <rastro>
+                <nLote>8094635</nLote>
+                <qLote>53.316</qLote>
+                <dFab>2025-09-17</dFab>
+                <dVal>2026-08-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>8669.44</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>48163.54</vProd>
+                    <vICMS>8669.44</vICMS>
+                    <vNF>48163.54</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

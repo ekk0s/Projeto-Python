@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe69848807027973497348646930040467421406557757" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>15426336</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000234</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>14.362.895/0001-19</CNPJ>
+                <xNome>DA ROCHA</xNome>
+            </emit>
+            <dest>
+                <CNPJ>09.418.253/0001-54</CNPJ>
+                <xNome>SRTA. EVELYN CAVALCANTE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>3926521779154764</cProd>
+            <xProd>ADIPISCI</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>10.797</qCom>
+            <vUnCom>475.82</vUnCom>
+            <vProd>5137.43</vProd>
+            <rastro>
+                <nLote>1814593</nLote>
+                <qLote>10.797</qLote>
+                <dFab>2025-09-16</dFab>
+                <dVal>2026-09-11</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>924.74</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>9357163354113642</cProd>
+            <xProd>REPELLAT</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>86.892</qCom>
+            <vUnCom>538.68</vUnCom>
+            <vProd>46806.98</vProd>
+            <rastro>
+                <nLote>4741748</nLote>
+                <qLote>86.892</qLote>
+                <dFab>2025-10-05</dFab>
+                <dVal>2026-03-05</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>8425.26</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="3">
+        <prod>
+            <cProd>6647488058901128</cProd>
+            <xProd>MAGNAM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>9.408</qCom>
+            <vUnCom>849.84</vUnCom>
+            <vProd>7995.29</vProd>
+            <rastro>
+                <nLote>5840275</nLote>
+                <qLote>9.408</qLote>
+                <dFab>2025-10-09</dFab>
+                <dVal>2026-07-13</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1439.15</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="4">
+        <prod>
+            <cProd>9463943169839237</cProd>
+            <xProd>DOLOREMQUE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>37.828</qCom>
+            <vUnCom>184.63</vUnCom>
+            <vProd>6984.18</vProd>
+            <rastro>
+                <nLote>9834461</nLote>
+                <qLote>37.828</qLote>
+                <dFab>2025-10-21</dFab>
+                <dVal>2026-03-10</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>1257.15</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="5">
+        <prod>
+            <cProd>8487854993085823</cProd>
+            <xProd>DOLOR</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>6.65</qCom>
+            <vUnCom>637.77</vUnCom>
+            <vProd>4241.17</vProd>
+            <rastro>
+                <nLote>3594346</nLote>
+                <qLote>6.65</qLote>
+                <dFab>2025-08-25</dFab>
+                <dVal>2026-03-04</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>763.41</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>71165.05</vProd>
+                    <vICMS>12809.71</vICMS>
+                    <vNF>71165.05</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

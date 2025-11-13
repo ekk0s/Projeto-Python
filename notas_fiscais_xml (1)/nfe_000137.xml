@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe49649235393824744090877840723755788561269099" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>97867692</cNF>
+                <natOp>Compra de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000137</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>0</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>04.537.681/0001-82</CNPJ>
+                <xNome>FARIAS</xNome>
+            </emit>
+            <dest>
+                <CNPJ>14.792.863/0001-53</CNPJ>
+                <xNome>SRTA. OLIVIA AZEVEDO</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>8476545603764844</cProd>
+            <xProd>EAQUE</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>42.699</qCom>
+            <vUnCom>438.6</vUnCom>
+            <vProd>18727.78</vProd>
+            <rastro>
+                <nLote>2963871</nLote>
+                <qLote>42.699</qLote>
+                <dFab>2025-08-24</dFab>
+                <dVal>2026-02-17</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>3371.0</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>18727.78</vProd>
+                    <vICMS>3371.0</vICMS>
+                    <vNF>18727.78</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>

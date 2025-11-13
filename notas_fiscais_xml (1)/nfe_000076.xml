@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe40100283124009938726383645325408691290091143" versao="4.00">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>61032693</cNF>
+                <natOp>Venda de Mercadoria</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>000076</nNF>
+                <dhEmi>2025-10-31T13:11:06-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>NF-E SIMULADA</verProc>
+            </ide>
+            <emit>
+                <CNPJ>18.462.035/0001-08</CNPJ>
+                <xNome>DA LUZ</xNome>
+            </emit>
+            <dest>
+                <CNPJ>81.620.437/0001-20</CNPJ>
+                <xNome>MARIA HELENA ANDRADE</xNome>
+            </dest>
+            
+    <det nItem="1">
+        <prod>
+            <cProd>7922755518574035</cProd>
+            <xProd>TEMPORA</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>22.984</qCom>
+            <vUnCom>663.86</vUnCom>
+            <vProd>15258.16</vProd>
+            <rastro>
+                <nLote>5214451</nLote>
+                <qLote>22.984</qLote>
+                <dFab>2025-10-27</dFab>
+                <dVal>2026-10-24</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2746.47</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+    <det nItem="2">
+        <prod>
+            <cProd>5109819999500658</cProd>
+            <xProd>ILLUM</xProd>
+            <NCM>01012100</NCM>
+            <CFOP>5101</CFOP>
+            <uCom>UN</uCom>
+            <qCom>36.046</qCom>
+            <vUnCom>367.48</vUnCom>
+            <vProd>13246.18</vProd>
+            <rastro>
+                <nLote>7583478</nLote>
+                <qLote>36.046</qLote>
+                <dFab>2025-10-08</dFab>
+                <dVal>2026-05-31</dVal>
+            </rastro>
+        </prod>
+        <imposto>
+            <ICMS>
+                <ICMS00>
+                    <orig>0</orig>
+                    <CST>00</CST>
+                    <pICMS>18.00</pICMS>
+                    <vICMS>2384.31</vICMS>
+                </ICMS00>
+            </ICMS>
+        </imposto>
+    </det>
+    
+            <total>
+                <ICMSTot>
+                    <vProd>28504.34</vProd>
+                    <vICMS>5130.78</vICMS>
+                    <vNF>28504.34</vNF>
+                </ICMSTot>
+            </total>
+        </infNFe>
+    </NFe>
+</nfeProc>
